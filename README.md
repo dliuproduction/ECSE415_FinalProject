@@ -97,7 +97,6 @@ used for “toss-up” predictions.
 
 # References
 
-<p align="justify">
 Y. Bang Liu, K. Zhou, Image Classification for Cats and Dogs, Available:
 https://sites.ualberta.ca/~bang3/files/DogCat_report.pdf
-</p>
+
